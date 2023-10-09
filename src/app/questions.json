@@ -1,0 +1,55 @@
+{
+    "questions": [
+        {
+        "title": "Norges Lengste Elv?",
+        "answers": [
+            { "answer": "Gjøsa" },
+            { "answer": "Geirelva" },
+            { "answer": "Langelva" },
+            { "answer": "Glomma", "correct": true }
+        ],
+        "helper": {
+            "text": "Renner ut i Fredrikstad"
+        }
+        },
+        
+        {
+        "title": "Norges hovedstad?",
+        "answers": [
+            { "answer": "Oslo", "correct": true },
+            { "answer": "Bergen" },
+            { "answer": "Trondheim" },
+            { "answer": "Fredrikstad" }
+            ],
+            "helper": {
+            "text": "Kongen bor der"
+            }
+        },
+        
+        {
+        "title": "Hvilke av landene er ikke i Skandinavia?",
+        "answers": [
+            { "answer": "Norge" },
+            { "answer": "Sverige" },
+            { "answer": "Danmark" },
+            { "answer": "Finland", "correct": true }
+            ],
+            "helper": {
+            "text": "Hvit og blått flagg"
+            }
+        },
+        
+        {
+        "title": "Hvem er norges statsminister",
+        "answers": [
+            { "answer": "Erna Solberg" },
+            { "answer": "Jonas Gahr Støre", "correct": true},
+            { "answer": "Harald Rex" },
+            { "answer": "Ingrid Alexandra" }
+            ],
+            "helper": {
+            "text": "Leder for Arbeiderpartiet"
+            }
+        }
+    ]
+}
